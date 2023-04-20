@@ -1,6 +1,6 @@
 ﻿# marys-catering
 
-[Click Here](http://marys-catering.s3-website-eu-west-1.amazonaws.com/) to see the website!
+[CLICK HERE](http://marys-catering.s3-website-eu-west-1.amazonaws.com/) to see the website!
 
 # About this Application
 I built this application as part of my work as a freelancer.<br/>
